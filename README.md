@@ -1,8 +1,11 @@
 # Real-Time Tracking of Intra-Regional Migration from the Caribbean to Puerto Rico after Extreme Events
 
-![image](image1.png)
+![image](Picture1.png)
 
-![image](image2.png)
+![image](Picture2.png)
+![image](https://user-images.githubusercontent.com/16068206/128619117-f3642d95-5451-44ba-a369-0282999ae34f.png)
+![image](https://user-images.githubusercontent.com/16068206/128619053-da9e125a-a4a0-4f04-a4db-f470a1a8c369.png)
+
 
 ### Terms:
 
