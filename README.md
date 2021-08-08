@@ -59,6 +59,7 @@ To test the feasibility of our approach and validate our method, we compared our
       we used the Term Frequency (TF) and Inverse Document Frequency (IDF) algorithms to weigh a keyword x in the content of a document and assign its importance based on the number of times it appears in the document. TF is used to measure how many times keyword x is present in a document. Since every document is different in length, it is possible that a keyword would appear more often in long documents than in shorter ones (Hakim, Erwin, Eng, Galinium, & Muliady, 2014). Thus, the TF is often divided by the document length as a way of normalization.
       
     ![image](https://user-images.githubusercontent.com/16068206/128619431-af38678c-b5f8-48ca-907f-0121ec4c241e.png)
+    
     ![image](https://user-images.githubusercontent.com/16068206/128619434-87487042-1f42-4dc6-814a-1adb0518b604.png)
 
   - Keyword Trends
