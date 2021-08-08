@@ -49,9 +49,13 @@ To test the feasibility of our approach and validate our method, we compared our
   - Country-Specific Keywords
     - Data Collection and Data Preprocessing
     - POS
+    
+      POS is a category of words that have similar grammatical properties and explains how a word is used in a sentence.
     - NER
-    - TF-IDF
  
+      NER is the task of recognizing and demarcating the segments of a document that are part of a name.
+    - TF-IDF
+    
       we used the Term Frequency (TF) and Inverse Document Frequency (IDF) algorithms to weigh a keyword x in the content of a document and assign its importance based on the number of times it appears in the document. TF is used to measure how many times keyword x is present in a document. Since every document is different in length, it is possible that a keyword would appear more often in long documents than in shorter ones (Hakim, Erwin, Eng, Galinium, & Muliady, 2014). Thus, the TF is often divided by the document length as a way of normalization.
       
     ![image](https://user-images.githubusercontent.com/16068206/128619431-af38678c-b5f8-48ca-907f-0121ec4c241e.png)
